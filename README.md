@@ -12,6 +12,7 @@
 1. Встанови `webtorrent-cli`:
 
    npm install -g webtorrent-cli
+
    yay -S webtorrent-cli    # Arch 
 
 Додай Whiptail, якщо його нема:
