@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOWNLOAD_PATH="/home/skynet/Downloads/"
+DOWNLOAD_PATH="Додайсвійшляхдозавантаження"
 
 while true; do
     link=$(whiptail --inputbox "Встав магнет-посилання:" 10 60 --title "Magnet link" 3>&1 1>&2 2>&3)
