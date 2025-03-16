@@ -9,7 +9,7 @@
 - Кнопки для повернення в меню або виходу  
 
 ## 🚀 Встановлення  
-1. Встанови `webtorrent-cli`:  ```bash
+1. Встанови `webtorrent-cli`:
    npm install -g webtorrent-cli
    yay -S webtorrent-cli    # Arch 
 
